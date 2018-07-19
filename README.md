@@ -1,6 +1,6 @@
 # Twitter Handles in News - An R function
 
-An repository to for scripts involving Twitter in news media. 
+A repository to for scripts involving Twitter in news media. 
 
 For questions, please contact jlukito@wisc.edu
 
